@@ -1,0 +1,49 @@
+body{
+    background: url(https://img2.goodfon.ru/original/1920x1080/1/55/robot-belyy-shlem-belyy-fon.jpg);
+	background-repeat: no-repeat; 
+    background-size: 100% 100%;
+}
+#block-pass-login{
+  width: 285px;
+  height: auto;
+  border: 1px solid #000080;
+  background-color: #E0FFFF;
+  margin: 250px auto;
+}
+#pass-login li{
+   margin-top: 10px; 
+}
+#pass-login label{
+   font: 20px Monotype Corsiva;
+   position: absolute;
+   margin-top: 4px;
+   margin-left: 10px
+}
+#pass-login input{
+   width: 200px;
+   height: 24px;
+   margin-left: 70px;
+   border: 1px solid #D6D6D6;
+   font: 18px Monotype Corsiva;;
+}
+#submit_enter{
+   border: 1px solid #000080;
+   background-color: #00BFFF;
+   margin-right: 10px; 
+   padding: 4px 6px;
+   font: bold 20px Monotype Corsiva;
+   cursor: pointer;
+}
+#submit_enter:hover{
+   border: 1px solid #8B4513;
+}
+#msgerror{
+    font: 20px Monotype Corsiva;
+    color: red;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #FDE5E0;
+    border: 2px solid #FDCDC3;
+    margin-top: 0;
+}
